@@ -91,3 +91,7 @@ O impacto deste projeto reside na capacidade de transformar dados brutos de sens
 - Automação: As plataformas que consomem o tópico MQTT podem ser configuradas para ajustes automáticos (ex: acionar um ar-condicionado se a temperatura ou umidade estiverem fora do limite, ou fechar persianas se light_status for "NOCIVA").
 - Monitoramento: Permite que gestores de escritórios ou usuários de home office monitorem as condições remotamente através de um dashboard.
 - Melhoria Contínua: Fornece insights baseados em dados para otimizar a acústica, iluminação e ventilação do ambiente de trabalho.
+
+Para ver o vídeo sobre o projeto:
+
+[Clique aqui](https://youtu.be/Q3ORTyTgAx0)
